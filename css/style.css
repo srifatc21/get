@@ -58,7 +58,7 @@ h5:after {
 
 .breadcrumb-div,
 .breadcrumb {
-    background: #0071bc;
+    background: #0f193d;
 
 }
 
@@ -74,8 +74,8 @@ h5:after {
 }
 
 .custom-btn {
-    background-color: #0071bc;
-    border: #0071bc;
+    background-color: red;
+    border: red;
     color: white;
     padding: 16px 30px;
     border-radius: 50px;
@@ -122,7 +122,8 @@ h5:after {
 /*========= Header CSS =========*/
 
 .head-text {
-    background-color: #ff525d;
+    /*background-color: #E61E21;*/
+    background: linear-gradient(to right, #00bef7 0%, #fc0d0d 100%);
     padding: 0;
 }
 
@@ -161,7 +162,7 @@ h5:after {
 }
 
 .navbar ul li a:hover{
-    color: #070808 !important;
+    color: #111a21 !important;
 }
 
 .navbar-custom ul li a:hover {
@@ -180,7 +181,7 @@ h5:after {
 }
 
 .navbar-custom{
-    background-color: #058df5 !important;
+    background-color: #db0000 !important;
 }
 
 .navbar-custom.scrolled {
@@ -322,7 +323,7 @@ h5:after {
     content: '';
     height: .1rem;
     width: 4.5rem;
-    background: white;
+    background: red;
     display: block;
     margin-top: .8rem;
 }
@@ -594,11 +595,11 @@ address {
 }
 
 .about-bottom h2::after {
-    background: white;
+    background: red;
 }
 
 .about-bottom .icon-bg {
-    background: #0071bc;
+    background: red;
     border-radius: 50%;
     position: relative;
     width: 100%;
