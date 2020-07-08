@@ -1285,26 +1285,15 @@ if(isset($_POST['submitMotor'])){
                 </div>
                 <div class="col-md-9 mt-4">
                     <div class="row">
-                        <div class="offset-md-6 pt-2">
+                        <!--<div class="pl-4" style="margin-top: 50px;">-->
+                        <!--<h4 style="color: white; font-family: 'Comic Sans MS'; cursor: default;font-style: italic;letter-spacing: 4px;font-size: 25px;font-weight: bold; color: #17045c;">Get Insured</h4>-->
+                        <!--</div>-->
+                        <div style="margin-top: 43px; margin-left: 25px;">
                             <div class="font-weight-bold">
-                                <div class="d-flex justify-content-end" style="font-size: 20px">
-                                    <span class="pr-2 text-primary" style="cursor: default;">CALL US:</span>
-                                    <span class="text-dark"><a href="tel:0330 113 9686" style="text-decoration: none;">0330 113 9686 <i class="fas fa-phone"></i></a></span>
+                                <div class="d-flex justify-content-end" style="letter-spacing: 3px;">
+                                    <span class="pr-2" style="cursor: default; font-size: 35px;">CALL US FOR FREE :</span>
+                                    <span class="text-dark" style="font-size: 55px;margin-top: -15px;"><a href="tel:0330 113 9686" style="text-decoration: none;">0330 113 9686</a></span>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="pl-4 pt-3">
-                            <h6 style="color: white; font-family: 'Comic Sans MS'; cursor: default;font-style: italic;letter-spacing: 2px;font-size: 18px;font-weight: 500;">Let’s Get You Insured</h6>
-                        </div>
-                        <div class="offset-md-3 pt-3">
-                            <div class="number pl-5" style="margin-left: 45px;">
-                                <ul class="list-unstyled d-flex">
-                                    <li><a class="pr-2" href=""> <i class="fab fa-facebook-square fa-2x"></i></a></li>
-
-                                    <li><a class="pr-2" href=""><i class="fab fa-twitter-square fa-2x"></i></a></li>
-
-                                    <li><a  href=""> <i class="fab fa-linkedin fa-2x"></i></a></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -1440,9 +1429,11 @@ if(isset($_POST['submitMotor'])){
             <div class="col-md-3 com-sm-12">
                 <h5>CONTACT INFORMATION</h5>
                 <address style="font-size: 16px; font-weight: 300; line-height: 1.5em;">
-                    29 MAYBRICK ROAD
+                    27A BROADWAY
                     <br>
-                    AYLESBURY, HP22 7BA
+                    PETERBOROUGH
+                    <br>
+                    PE1 1SQ
                     <br>
                     LONDON
                 </address>
@@ -1451,8 +1442,8 @@ if(isset($_POST['submitMotor'])){
 
         <div class="footer-text" style="margin-top: 10px;">
             <span style="font-weight: bold">
-                GET INSURE LIMITED (TRADING AS GET SEARCHER) DO NOT ENGAGE IN ANY REGULATORY ACTIVITIES HOWEVER, REGISTERED IN ENGLAND & WALES,
-                COMPANY NUMBER: 10833649, REGISTERED OFFICE: 29 MAYBRICK ROAD, AYLESBURY, HP22 7BA, LONDON. GET
+                GET INSURE LIMITED (TRADING AS GET INSURE) DO NOT ENGAGE IN ANY REGULATORY ACTIVITIES HOWEVER, REGISTERED IN ENGLAND & WALES,
+                COMPANY NUMBER: 10833649, REGISTERED OFFICE: 27A BROADWAY, PETERBOROUGH, PE1 1SQ, LONDON. GET
                 INSURE LIMITED IS REGISTERED WITH THE INFORMATION COMMISSIONER'S OFFICE (REGISTRATION NUMBER: ZA263319) AS WELL AS GDPR COMPLIANT,
                 AUTHORISED TO PROCESS PERSONAL DATA UNDER DATA PROTECTION ACT & GDPR 2018.
             </span>
@@ -1464,10 +1455,10 @@ if(isset($_POST['submitMotor'])){
                     <div class="col-md-4 col-sm-12">
                         <ul class="list-unstyled text-light pt-4">
                             <li>
-                                <a href="terms_conditons.html">
+                                <a href="../terms_conditons.html">
                                     Terms & Conditions
                                 </a>|
-                                <a href="privacy_policy.html">
+                                <a href="../privacy_policy.html">
                                     Privacy Policy
                                 </a>
                             </li>
